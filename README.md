@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/axellebot">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=axellebot&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="salihgueler"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axellebot&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="salihgueler"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=axellebot&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="axellebot"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axellebot&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="axellebot"/>
 </a>
 </p>
 
